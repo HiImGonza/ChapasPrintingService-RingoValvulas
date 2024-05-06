@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ChapasPrintingService" GeneratedClassName="ConfigIni">
+  <Profiles />
+  <Settings>
+    <Setting Name="bLogDetallado" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TipoOrigen" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">FTP</Value>
+    </Setting>
+    <Setting Name="ExtensionOrigen" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.txt</Value>
+    </Setting>
+    <Setting Name="TipoOrdenacion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AlfAsc</Value>
+    </Setting>
+    <Setting Name="NombreDestino" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Test1</Value>
+    </Setting>
+    <Setting Name="RefreshTime" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="DescProcesado" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">_Procesado</Value>
+    </Setting>
+    <Setting Name="IP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Usuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Gon</Value>
+    </Setting>
+    <Setting Name="Contrasena" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">valero</Value>
+    </Setting>
+    <Setting Name="RutaOrigen" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Origen\</Value>
+    </Setting>
+    <Setting Name="RutaDestino" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\UNIVERSIDAD\Practicas\nuevo\Destino\</Value>
+    </Setting>
+    <Setting Name="RutaProcesado" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\UNIVERSIDAD\Practicas\nuevo\Procesados\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
